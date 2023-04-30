@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="TesterEWA" target="1.5" />
+      <module name="TesterEWA" target="12" />
     </bytecodeTargetLevel>
   </component>
 </project>
